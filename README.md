@@ -36,6 +36,7 @@ Before running the automation, configure the window positioning settings:
 3. Window Size (Width, Height): The dimensions to resize the window to (default: 1024x768)
 
 These settings ensure that the UI elements appear in consistent locations across different computers.
+(SET THIS UP ONCE, NO LONGER HAVE TO BOTHER WITH ITEM 4)
 
 ### 3. Excel File Format
 
